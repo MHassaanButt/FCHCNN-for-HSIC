@@ -32,17 +32,17 @@ For project demontration we used Fast Compact 3D CNN and Hybrid CNN
 | ---| poster paint   |   0.99   |  0.99  |   0.99 |
 | ---| tomato concentrate   |   0.94   |  0.91  |   0.92   |
 | ---| acrylic paint   |   0.96   |  0.99  |   0.97  | 
-| ---| `Fast Compact 3D CNN`  | --- | --- | --- |--- |
+| `Fast Compact 3D CNN`  | --- | --- | --- |--- |
 | ---|     blood   |    0.94   |    0.97   |   0.96    |
-| ---    ketchup   |       0.97   |   0.99  |    0.98   |
-| ---    artificial blood   |       0.89  |    0.88   &   0.88   |
-| ---    poster paint   |     1.00   |   0.99  |    1.00    |
-   | --- tomato concentrate   |    0.95   |   0.82   |   0.88     |
+| --- |   ketchup   |       0.97   |   0.99  |    0.98   |
+| --- |   artificial blood   |       0.89  |    0.88   |   0.88   |
+| ---  |  poster paint   |     1.00   |   0.99  |    1.00    |
+   | ---| tomato concentrate   |    0.95   |   0.82   |   0.88     |
 | ---    acrylic paint   |    0.92   |   0.98   |   0.95    | 
 
-    \textbf{Accuracy}   &           &          &   0.95    \\
-    \textbf{Macro avg}   &    0.95   &   0.94   &   0.94     \\
-    \textbf{Weighted avg}   &    0.95  &    0.95   &   0.94   \\
+| Classifiers | Accuracy | Macro avg | Weighted avg|
+| `Fast Compact 3D CNN` |0.95    | 0.95 | 0.95|
+| `Hybird CNN`  | 0.96 | 0.97 |0.96 |0.96 |  
 
 ## Conclusion
 The first one is a fast and compact 3D CNN model which classified substances with an overall precision of 95% having 90% above accuracy to classify each blood-like substance individually. In the other deep learning architecture, we have introduced a hybrid 3D and 2D model for hyperspectral image classification which combines spatio-spectral and spectral information using 3D and 2D convolutions. The Hybrid model sums up complementary information and gives higher accuracy of 96% than fast and compact 3D CNN. The aforesaid models have been compared with a relatively fewer number of training samples i.e., only 5% (792 samples) samples are used to train the models, and validated again on 5% (792 samples) samples. Finally, the trained models are blindly tested on 90% (14260 samples) of the data samples.
