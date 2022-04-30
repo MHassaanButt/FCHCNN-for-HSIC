@@ -38,11 +38,12 @@ For project demontration we used Fast Compact 3D CNN and Hybrid CNN
 | --- |   artificial blood   |       0.89  |    0.88   |   0.88   |
 | ---  |  poster paint   |     1.00   |   0.99  |    1.00    |
    | ---| tomato concentrate   |    0.95   |   0.82   |   0.88     |
-| ---    acrylic paint   |    0.92   |   0.98   |   0.95    | 
+| ---   | acrylic paint   |    0.92   |   0.98   |   0.95    | 
 
 ## Comparison Table 2 
 
 | Classifiers | Accuracy | Macro avg | Weighted avg|
+| --- | --- | --- | --- | 
 | `Fast Compact 3D CNN` |0.95    | 0.95 | 0.95|
 | `Hybird CNN`  | 0.96 | 0.97 |0.96 |0.96 |  
 
