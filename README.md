@@ -4,18 +4,18 @@ This repo is implementation of research article "A Fast and Compact Hybrid CNN f
 
 ## Required Python Libraries
 
- *spectral
- *numpy 
- *pandas 
- *scipy.io 
- *seaborn 
- *plotly
- *matplotlib
- *sklearn
- *keras 
- *h5py
- *plotly
- *tensorflow
+ * spectral
+ * numpy 
+ * pandas 
+ * scipy.io 
+ * seaborn 
+ * plotly
+ * matplotlib
+ * sklearn
+ * keras 
+ * h5py
+ * plotly
+ * tensorflow
 
 ## The dataset associated with the source code:
 The dataset is available online: https://zenodo.org/record/3984905
