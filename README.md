@@ -6,7 +6,7 @@ The full text of the paper can be found at [this URL](https://ieeexplore.ieee.or
 
 If you use this code in your own research, please consider citing our paper:
 
-@INPROCEEDINGS{9870277,
+```@INPROCEEDINGS{9870277,
   author={Butt, Muhammad Hassaan Farooq and Ayaz, Hamail and Ahmad, Muhammad and Li, Jian Ping and Kuleev, Ramil},
   booktitle={2022 IEEE Congress on Evolutionary Computation (CEC)}, 
   title={A Fast and Compact Hybrid CNN for Hyperspectral Imaging-based Bloodstain Classification}, 
@@ -15,7 +15,7 @@ If you use this code in your own research, please consider citing our paper:
   number={},
   pages={1-8},
   doi={10.1109/CEC55065.2022.9870277}}
-
+```
 
 ## Required Python Libraries
 
