@@ -1,6 +1,21 @@
 # A-Fast-and-Compact-Hybrid-CNN-for-Hyperspectral-Imaging-based-Bloodstain-Classification
 
-This repo is implementation of research article "A Fast and Compact Hybrid CNN for Hyperspectral Imaging-based Bloodstain Classification". 
+This repository contains code for my research paper "A Fast and Compact Hybrid CNN for Hyperspectral Imaging-based Bloodstain Classification". 
+The full text of the paper can be found at [this URL](https://ieeexplore.ieee.org/abstract/document/9870277).
+
+
+If you use this code in your own research, please consider citing our paper:
+
+@INPROCEEDINGS{9870277,
+  author={Butt, Muhammad Hassaan Farooq and Ayaz, Hamail and Ahmad, Muhammad and Li, Jian Ping and Kuleev, Ramil},
+  booktitle={2022 IEEE Congress on Evolutionary Computation (CEC)}, 
+  title={A Fast and Compact Hybrid CNN for Hyperspectral Imaging-based Bloodstain Classification}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/CEC55065.2022.9870277}}
+
 
 ## Required Python Libraries
 
